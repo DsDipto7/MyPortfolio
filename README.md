@@ -12,3 +12,5 @@ Typing Animation: Introduce yourself or highlight key skills with a customizable
 <h2>Contact Section:</h2> Enable visitors to easily get in touch with you through a dedicated contact section, complete with a contact form or relevant contact information.
 
 <h2>Scroll-to-Top Button:</h2> Enhance user experience by providing a convenient scroll-to-top button that appears when the user scrolls down, enabling them to navigate back to the top of the page effortlessly.
+
+This is all about my portfolio details.
